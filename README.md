@@ -7,7 +7,7 @@ Future Ready Talent
 
 December 29, 2022 GUTTULA DHANUSH.
 
-                                                                 # ✨ DENTITION ✨
+#                                                                           ✨ DENTITION ✨
 
 This is a web based application developed for health related based website in india
 
