@@ -15,6 +15,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** -https://bubby49.github.io/Project01/
+                 -https://gray-ground-0a9e10700.2.azurestaticapps.net
 
 
 **project demo video link** - https://youtu.be/u5M-b1fMsRo
