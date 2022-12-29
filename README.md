@@ -2,7 +2,7 @@
 Future Ready Talent
 
 
-**project demo video link** - 
+**project demo video link** - https://youtu.be/u5M-b1fMsRo
 
 
 December 29, 2022 GUTTULA DHANUSH.
@@ -17,7 +17,7 @@ This is a web based application developed for health related based website in in
 **Project Link** -https://bubby49.github.io/Project01/
 
 
-**project demo video link** - 
+**project demo video link** - https://youtu.be/u5M-b1fMsRo
 
 ## Azure technologies used for Project
 
